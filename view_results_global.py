@@ -11,7 +11,7 @@ mode = 'rps'
 
 hp_search_save_path = 'results/hp_search_' + mode + '_global_' + str(random_seed) + '_' + str(use_random_training) + '_' \
                       + str(reproduce_submission) + '.pickle'
-predictions_save_path = 'results/predictions_'+ mode + '_global_' + str(random_seed) + '_' + str(use_random_training) + '_' \
+predictions_save_path = 'results/predictions_' + mode + '_global_' + str(random_seed) + '_' + str(use_random_training) + '_' \
                         + str(reproduce_submission) + '.csv'
 
 with open(hp_search_save_path, 'rb') as file:

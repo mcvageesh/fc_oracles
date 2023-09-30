@@ -6,7 +6,7 @@ from sklearn.metrics import mean_squared_error
 
 random_seed = 4321
 use_random_training = False
-mode = 'rps'
+mode = 'rmse'
 lge = 'FRA3'
 
 hp_search_save_path = 'results/hp_search_' + mode + '_non_global_' + lge + '_' + str(random_seed) + '_' + str(use_random_training) + '.pickle'
