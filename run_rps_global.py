@@ -255,8 +255,7 @@ if run_hp_search:
 
             # compile the model with the ranked probability score loss function
             model.compile(optimizer=tf.keras.optimizers.Adam(learning_rate=space['initial_learning_rate']),
-                          # loss=ranked_probability_loss
-                          loss='categorical_crossentropy'
+                          loss=ranked_probability_loss
                           )
 
             def scheduler(epoch, lr,
@@ -282,7 +281,7 @@ if run_hp_search:
             for i in range(5):
                 tmp = load_model(
                     'tmp/checkpoint_{0:02d}.h5'.format(len(history.history['val_loss']) - patience + i),
-                     # custom_objects={'ranked_probability_loss': ranked_probability_loss}
+                     custom_objects={'ranked_probability_loss': ranked_probability_loss}
                 )
                 pred_y += tmp.predict(VAL_X)
 
@@ -357,8 +356,7 @@ if eval_on_test:
 
         # compile the model with the ranked probability score loss function
         model.compile(optimizer=tf.keras.optimizers.Adam(learning_rate=best_hp['initial_learning_rate']),
-                      # loss=ranked_probability_loss
-                      loss='categorical_crossentropy'
+                      loss=ranked_probability_loss
                       )
 
         def scheduler(epoch, lr,
@@ -404,8 +402,7 @@ if eval_on_test:
         for k in range(num_random_seeds):
             for i in range(5):
                 tmp = load_model('tmp_' + str(k) + '/checkpoint_{0:02d}.h5'.format(best_hp['num_epochs'] + i),
-                                 # custom_objects={'ranked_probability_loss': ranked_probability_loss}
-                                 )
+                                 custom_objects={'ranked_probability_loss': ranked_probability_loss})
                 pred_y += tmp.predict(val_x)
         pred_y = pred_y / (num_random_seeds * 5)
         test_data_df_copy.loc[test_data_df_copy['Lge'] == lge, ['prd_W', 'prd_D', 'prd_L']] = np.round(pred_y, 4)
