@@ -323,7 +323,7 @@ if eval_on_test:
             random.seed(random_seed + k)
             np.random.seed(random_seed + k)
 
-            model = MyModel(best_hp, train_x.shape[1], embedding_input_dim=None)
+            model = MyModel2(best_hp, train_x.shape[1], embedding_input_dim=None)
 
             # compile the model with the ranked probability score loss function
             model.compile(optimizer=tf.keras.optimizers.Adam(learning_rate=best_hp['initial_learning_rate']),

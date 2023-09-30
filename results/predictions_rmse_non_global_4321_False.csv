@@ -1,0 +1,715 @@
+,ID,Sea,Lge,Date,HT,AT,HS,AS,GD,WDL,prd_HS,prd_AS
+0,1,23-24,ARG1,2023-04-14,Tigre,Sarmiento de Junin,1,0,1,W,1.0,1.0
+1,2,23-24,ARG1,2023-04-15,Defensa y Justicia,Instituto Cordoba,1,0,1,W,2.0,1.0
+2,3,23-24,ARG1,2023-04-15,Boca Juniors,Estudiantes,0,1,-1,L,2.0,1.0
+3,4,23-24,ARG1,2023-04-16,GyE La Plata,Belgrano Cordoba,0,2,-2,L,1.0,1.0
+4,5,23-24,ARG1,2023-04-16,Huracan,Argentinos Juniors,0,0,0,D,1.0,1.0
+5,6,23-24,ARG1,2023-04-16,Velez Sarsfield,Barracas Central,0,0,0,D,2.0,1.0
+6,7,23-24,ARG1,2023-04-16,Union de Santa Fe,Tigre,0,0,0,D,1.0,1.0
+7,8,23-24,ARG1,2023-04-16,Newells Old Boys,River Plate,0,1,-1,L,1.0,1.0
+8,9,23-24,ARG1,2023-04-16,Independiente,Racing Club,1,1,0,D,1.0,1.0
+9,10,23-24,ARG1,2023-04-17,Talleres Cordoba,San Lorenzo,0,0,0,D,1.0,1.0
+10,11,23-24,ARG1,2023-04-17,Platense,CA Colon,0,0,0,D,1.0,1.0
+11,12,23-24,ARG1,2023-04-17,CA Banfield,Central Cordoba,1,0,1,W,1.0,1.0
+12,13,23-24,ARG1,2023-04-17,Sarmiento de Junin,Arsenal Sarandi,1,0,1,W,1.0,1.0
+13,14,23-24,ARG1,2023-04-18,Atletico Tucuman,Rosario Central,2,2,0,D,1.0,1.0
+14,15,23-24,ARG1,2023-04-18,CD Godoy Cruz,CA Lanus,4,4,0,D,1.0,1.0
+15,16,23-24,ARG1,2023-04-23,Central Cordoba,CD Godoy Cruz,0,2,-2,L,1.0,1.0
+16,17,23-24,ARG1,2023-04-23,CA Lanus,Sarmiento de Junin,2,1,1,W,1.0,1.0
+17,18,23-24,ARG1,2023-04-23,Arsenal Sarandi,Union de Santa Fe,2,1,1,W,1.0,1.0
+18,19,23-24,ARG1,2023-04-23,Tigre,Huracan,1,0,1,W,1.0,1.0
+19,20,23-24,ARG1,2023-04-23,Argentinos Juniors,GyE La Plata,2,4,-2,L,1.0,1.0
+20,21,23-24,ARG1,2023-04-23,Belgrano Cordoba,Newells Old Boys,1,0,1,W,1.0,1.0
+21,22,23-24,ARG1,2023-04-23,River Plate,Independiente,2,0,2,W,2.0,1.0
+22,23,23-24,ARG1,2023-04-23,Racing Club,Atletico Tucuman,1,3,-2,L,1.0,1.0
+23,24,23-24,ARG1,2023-04-23,Rosario Central,Boca Juniors,2,2,0,D,1.0,1.0
+24,25,23-24,ARG1,2023-04-23,Estudiantes,Talleres Cordoba,1,0,1,W,1.0,1.0
+25,26,23-24,ARG1,2023-04-23,San Lorenzo,Platense,1,0,1,W,1.0,1.0
+26,27,23-24,ARG1,2023-04-23,CA Colon,Velez Sarsfield,2,1,1,W,1.0,1.0
+27,28,23-24,ARG1,2023-04-23,Barracas Central,Defensa y Justicia,0,2,-2,L,1.0,1.0
+28,29,23-24,ARG1,2023-04-23,Instituto Cordoba,CA Banfield,1,1,0,D,1.0,1.0
+29,30,22-23,AUS1,2023-04-14,Newcastle United Jets,Macarthur FC,2,1,1,W,2.0,1.0
+30,31,22-23,AUS1,2023-04-15,Central Coast Mariners,Melbourne City FC,1,1,0,D,1.0,2.0
+31,32,22-23,AUS1,2023-04-15,Western Sydney Wanderers,Melbourne Victory,2,1,1,W,2.0,1.0
+32,33,22-23,AUS1,2023-04-16,Wellington Phoenix,Brisbane Roar,2,2,0,D,2.0,1.0
+33,34,22-23,AUS1,2023-04-16,Sydney FC,Perth Glory,4,1,3,W,1.0,1.0
+34,35,22-23,AUS1,2023-04-16,Adelaide United,Western United,0,1,-1,L,2.0,1.0
+35,36,22-23,AUS1,2023-04-21,Western Sydney Wanderers,Wellington Phoenix,4,0,4,W,2.0,1.0
+36,37,22-23,AUS1,2023-04-22,Newcastle United Jets,Central Coast Mariners,1,3,-2,L,2.0,1.0
+37,38,22-23,AUS1,2023-04-22,Western United,Melbourne City FC,1,3,-2,L,1.0,2.0
+38,39,22-23,AUS1,2023-04-23,Melbourne Victory,Macarthur FC,2,1,1,W,2.0,1.0
+39,40,22-23,AUS1,2023-04-23,Perth Glory,Adelaide United,4,4,0,D,1.0,1.0
+40,41,22-23,AUS1,2023-04-24,Brisbane Roar,Sydney FC,3,1,2,W,2.0,1.0
+41,42,22-23,AUT1,2023-04-14,SV Ried,WSG Tirol,1,1,0,D,1.0,2.0
+42,43,22-23,AUT1,2023-04-15,TSV Hartberg,SCR Altach,2,2,0,D,2.0,1.0
+43,44,22-23,AUT1,2023-04-15,Austria Lustenau,Wolfsberger AC,1,3,-2,L,2.0,2.0
+44,45,22-23,AUT1,2023-04-16,RB Salzburg,LASK Linz,0,0,0,D,2.0,0.0
+45,46,22-23,AUT1,2023-04-16,SK Austria Klagenfurt,Sturm Graz,0,2,-2,L,1.0,2.0
+46,47,22-23,AUT1,2023-04-16,Rapid Wien,Austria Wien,3,3,0,D,1.0,1.0
+47,48,22-23,AUT1,2023-04-21,Wolfsberger AC,TSV Hartberg,2,2,0,D,2.0,1.0
+48,49,22-23,AUT1,2023-04-22,SCR Altach,SV Ried,1,1,0,D,1.0,1.0
+49,50,22-23,AUT1,2023-04-22,WSG Tirol,Austria Lustenau,0,2,-2,L,1.0,1.0
+50,51,22-23,AUT1,2023-04-23,Austria Wien,SK Austria Klagenfurt,1,2,-1,L,2.0,1.0
+51,52,22-23,AUT1,2023-04-23,LASK Linz,Rapid Wien,3,1,2,W,1.0,1.0
+52,53,22-23,AUT1,2023-04-23,Sturm Graz,RB Salzburg,0,2,-2,L,1.0,2.0
+53,54,22-23,BEL1,2023-04-14,Standard,Charleroi,3,1,2,W,1.0,1.0
+54,55,22-23,BEL1,2023-04-15,Eupen,Waregem,1,5,-4,L,2.0,1.0
+55,56,22-23,BEL1,2023-04-15,Cercle Brugge,St Truiden,3,1,2,W,2.0,1.0
+56,57,22-23,BEL1,2023-04-15,Oostende,Oud-Heverlee Leuven,0,4,-4,L,1.0,1.0
+57,58,22-23,BEL1,2023-04-15,Westerlo,Club Brugge,0,0,0,D,1.0,2.0
+58,59,22-23,BEL1,2023-04-16,Genk,Anderlecht,5,2,3,W,2.0,1.0
+59,60,22-23,BEL1,2023-04-16,Mechelen,Gent,1,1,0,D,1.0,2.0
+60,61,22-23,BEL1,2023-04-16,Antwerp,Kortrijk,1,0,1,W,2.0,1.0
+61,62,22-23,BEL1,2023-04-16,Union Saint-Gilloise,RFC Seraing,2,1,1,W,3.0,1.0
+62,63,22-23,BEL1,2023-04-23,Club Brugge,Eupen,7,0,7,W,3.0,1.0
+63,64,22-23,BEL1,2023-04-23,Gent,Oostende,1,2,-1,L,3.0,1.0
+64,65,22-23,BEL1,2023-04-23,Kortrijk,Union Saint-Gilloise,2,4,-2,L,1.0,2.0
+65,66,22-23,BEL1,2023-04-23,Oud-Heverlee Leuven,Standard,3,2,1,W,1.0,1.0
+66,67,22-23,BEL1,2023-04-23,Anderlecht,Mechelen,2,3,-1,L,2.0,1.0
+67,68,22-23,BEL1,2023-04-23,Charleroi,Genk,2,2,0,D,1.0,2.0
+68,69,22-23,BEL1,2023-04-23,RFC Seraing,Westerlo,1,1,0,D,1.0,2.0
+69,70,22-23,BEL1,2023-04-23,Waregem,Cercle Brugge,2,3,-1,L,1.0,2.0
+70,71,22-23,BEL1,2023-04-23,St Truiden,Antwerp,0,1,-1,L,1.0,1.0
+71,72,22-23,CHE1,2023-04-15,Servette Geneve,FC Lugano,2,2,0,D,1.0,1.0
+72,73,22-23,CHE1,2023-04-15,FC Luzern,FC Zurich,2,2,0,D,1.0,1.0
+73,74,22-23,CHE1,2023-04-16,FC St Gallen,Winterthur,2,0,2,W,2.0,2.0
+74,75,22-23,CHE1,2023-04-16,FC Basel,Young Boys,0,0,0,D,2.0,2.0
+75,76,22-23,CHE1,2023-04-16,Grasshoppers Zurich,FC Sion,4,4,0,D,1.0,1.0
+76,77,22-23,CHE1,2023-04-22,Winterthur,Grasshoppers Zurich,1,0,1,W,1.0,1.0
+77,78,22-23,CHE1,2023-04-22,Young Boys,Servette Geneve,3,0,3,W,2.0,1.0
+78,79,22-23,CHE1,2023-04-23,FC Basel,FC Luzern,2,3,-1,L,2.0,1.0
+79,80,22-23,CHE1,2023-04-23,FC Lugano,FC Sion,2,3,-1,L,2.0,1.0
+80,81,22-23,CHE1,2023-04-23,FC Zurich,FC St Gallen,1,0,1,W,1.0,1.0
+81,82,23-24,CHL1,2023-04-16,Audax Italiano,Universidad de Chile,1,2,-1,L,1.0,1.0
+82,83,23-24,CHL1,2023-04-16,Deportes Copiapo,CD Huachipato,1,1,0,D,1.0,2.0
+83,85,23-24,CHL1,2023-04-16,Curico Unido,Union Espanola,0,1,-1,L,2.0,1.0
+84,86,23-24,CHL1,2023-04-16,Everton,Deportes Magallanes,2,0,2,W,2.0,1.0
+85,87,23-24,CHL1,2023-04-16,CD Palestino,CD Cobresal,1,5,-4,L,2.0,1.0
+86,88,23-24,CHL1,2023-04-16,Union La Calera,Higgins,0,1,-1,L,1.0,1.0
+87,89,23-24,CHL1,2023-04-16,Universidad Catolica,Colo Colo,0,0,0,D,2.0,2.0
+88,90,23-24,CHL1,2023-04-23,CD Cobresal,Curico Unido,2,0,2,W,2.0,1.0
+89,91,23-24,CHL1,2023-04-23,Colo Colo,CD Palestino,3,1,2,W,2.0,1.0
+90,92,23-24,CHL1,2023-04-23,Everton,Universidad de Chile,1,2,-1,L,1.0,1.0
+91,93,23-24,CHL1,2023-04-23,CD Huachipato,Union La Calera,2,3,-1,L,2.0,1.0
+92,94,23-24,CHL1,2023-04-23,Deportes Magallanes,Deportes Copiapo,0,2,-2,L,2.0,1.0
+93,95,23-24,CHL1,2023-04-23,Nublense,Audax Italiano,2,5,-3,L,2.0,1.0
+94,96,23-24,CHL1,2023-04-23,Universidad Catolica,Higgins,0,1,-1,L,2.0,1.0
+95,97,23-24,CHL1,2023-04-23,Union Espanola,Coquimbo Unido,2,0,2,W,2.0,1.0
+96,98,22-23,DNK1,2023-04-14,Midtjylland,Aalborg,1,1,0,D,1.0,1.0
+97,99,22-23,DNK1,2023-04-16,Lyngby,Horsens,2,1,1,W,1.0,1.0
+98,100,22-23,DNK1,2023-04-16,Odense,Silkeborg,2,0,2,W,1.0,1.0
+99,101,22-23,DNK1,2023-04-16,FC Kobenhavn,Viborg,2,1,1,W,1.0,1.0
+100,102,22-23,DNK1,2023-04-16,Brondby,Aarhus,1,0,1,W,1.0,1.0
+101,103,22-23,DNK1,2023-04-17,Randers FC,Nordsjalland,1,1,0,D,1.0,1.0
+102,104,22-23,DNK1,2023-04-21,Silkeborg,Aalborg,2,2,0,D,1.0,1.0
+103,105,22-23,DNK1,2023-04-23,Horsens,Midtjylland,0,2,-2,L,1.0,2.0
+104,106,22-23,DNK1,2023-04-24,Odense,Lyngby,2,2,0,D,1.0,1.0
+105,123,23-24,ECU1,2023-04-16,Cumbaya FC,Gualaceo SC,1,0,1,W,2.0,1.0
+106,124,23-24,ECU1,2023-04-16,Delfin SC,Mushuc Runa,3,0,3,W,2.0,1.0
+107,125,23-24,ECU1,2023-04-16,Deportivo Cuenca,River Ecuador,4,1,3,W,2.0,1.0
+108,126,23-24,ECU1,2023-04-16,CS Emelec,El Nacional,1,2,-1,L,2.0,1.0
+109,127,23-24,ECU1,2023-04-16,LDU Quito,FC Barcelona,0,1,-1,L,1.0,1.0
+110,128,23-24,ECU1,2023-04-16,Libertad de Loja,Independiente del Valle,0,0,0,D,2.0,2.0
+111,129,23-24,ECU1,2023-04-16,Tecnico Universitario,SD Aucas,0,1,-1,L,2.0,1.0
+112,130,23-24,ECU1,2023-04-16,Universidad Catolica,Orense,1,1,0,D,2.0,1.0
+113,131,23-24,ECU1,2023-04-23,SD Aucas,Cumbaya FC,2,1,1,W,2.0,1.0
+114,132,23-24,ECU1,2023-04-23,FC Barcelona,Deportivo Cuenca,2,1,1,W,2.0,1.0
+115,133,23-24,ECU1,2023-04-23,El Nacional,Libertad de Loja,4,2,2,W,2.0,1.0
+116,134,23-24,ECU1,2023-04-23,Gualaceo SC,Universidad Catolica,1,0,1,W,1.0,2.0
+117,135,23-24,ECU1,2023-04-23,River Ecuador,Delfin SC,2,1,1,W,2.0,1.0
+118,136,23-24,ECU1,2023-04-23,Independiente del Valle,Tecnico Universitario,1,0,1,W,2.0,1.0
+119,137,23-24,ECU1,2023-04-23,Mushuc Runa,CS Emelec,0,0,0,D,2.0,2.0
+120,138,23-24,ECU1,2023-04-23,Orense,LDU Quito,2,1,1,W,2.0,1.0
+121,139,22-23,ENG1,2023-04-15,Aston Villa,Newcastle United,3,0,3,W,1.0,1.0
+122,140,22-23,ENG1,2023-04-15,Chelsea,Brighton,1,2,-1,L,1.0,1.0
+123,141,22-23,ENG1,2023-04-15,Everton,Fulham,1,3,-2,L,1.0,1.0
+124,142,22-23,ENG1,2023-04-15,Southampton,Crystal Palace,0,2,-2,L,1.0,2.0
+125,143,22-23,ENG1,2023-04-15,Tottenham Hotspur,Bournemouth,2,3,-1,L,2.0,1.0
+126,144,22-23,ENG1,2023-04-15,Wolverhampton,Brentford,2,0,2,W,1.0,2.0
+127,145,22-23,ENG1,2023-04-15,Nottingham Forest,Manchester United,0,2,-2,L,1.0,2.0
+128,146,22-23,ENG1,2023-04-16,West Ham United,Arsenal,2,2,0,D,1.0,2.0
+129,147,22-23,ENG1,2023-04-16,Manchester City,Leicester City,3,1,2,W,3.0,1.0
+130,148,22-23,ENG1,2023-04-17,Leeds United,Liverpool,1,6,-5,L,1.0,2.0
+131,149,22-23,ENG1,2023-04-21,Arsenal,Southampton,3,3,0,D,3.0,1.0
+132,150,22-23,ENG1,2023-04-22,Fulham,Leeds United,2,1,1,W,1.0,1.0
+133,151,22-23,ENG1,2023-04-22,Bournemouth,West Ham United,0,4,-4,L,1.0,1.0
+134,152,22-23,ENG1,2023-04-22,Crystal Palace,Everton,0,0,0,D,1.0,1.0
+135,153,22-23,ENG1,2023-04-22,Brentford,Aston Villa,1,1,0,D,2.0,1.0
+136,154,22-23,ENG1,2023-04-22,Liverpool,Nottingham Forest,3,2,1,W,3.0,1.0
+137,155,22-23,ENG1,2023-04-22,Leicester City,Wolverhampton,2,1,1,W,2.0,1.0
+138,157,22-23,ENG1,2023-04-23,Newcastle United,Tottenham Hotspur,6,1,5,W,2.0,1.0
+139,159,22-23,ENG2,2023-04-14,Middlesbrough,Norwich City,5,1,4,W,1.0,1.0
+140,160,22-23,ENG2,2023-04-15,Sheffield United,Cardiff City,4,1,3,W,2.0,1.0
+141,161,22-23,ENG2,2023-04-15,Sunderland,Birmingham City,2,1,1,W,2.0,1.0
+142,162,22-23,ENG2,2023-04-15,Blackpool,Wigan Athletic,1,0,1,W,1.0,1.0
+143,163,22-23,ENG2,2023-04-15,Millwall,Preston North End,2,0,2,W,1.0,1.0
+144,164,22-23,ENG2,2023-04-15,Reading,Burnley,0,0,0,D,1.0,2.0
+145,165,22-23,ENG2,2023-04-15,Watford,Bristol City,2,0,2,W,2.0,1.0
+146,166,22-23,ENG2,2023-04-15,Queens Park Rangers,Coventry City,0,3,-3,L,1.0,1.0
+147,167,22-23,ENG2,2023-04-15,Rotherham United,Luton Town,0,2,-2,L,1.0,1.0
+148,168,22-23,ENG2,2023-04-15,Stoke City,West Bromwich Albion,1,2,-1,L,1.0,1.0
+149,169,22-23,ENG2,2023-04-15,Swansea City,Huddersfield Town,1,0,1,W,1.0,1.0
+150,170,22-23,ENG2,2023-04-15,Blackburn Rovers,Hull City,0,0,0,D,2.0,1.0
+151,171,22-23,ENG2,2023-04-18,Sunderland,Huddersfield Town,1,1,0,D,1.0,1.0
+152,172,22-23,ENG2,2023-04-18,Blackpool,West Bromwich Albion,0,2,-2,L,1.0,2.0
+153,173,22-23,ENG2,2023-04-18,Rotherham United,Burnley,2,2,0,D,1.0,1.0
+154,174,22-23,ENG2,2023-04-18,Sheffield United,Bristol City,1,0,1,W,2.0,1.0
+155,175,22-23,ENG2,2023-04-18,Stoke City,Wigan Athletic,0,1,-1,L,2.0,1.0
+156,176,22-23,ENG2,2023-04-18,Millwall,Birmingham City,0,1,-1,L,2.0,1.0
+157,177,22-23,ENG2,2023-04-19,Blackburn Rovers,Coventry City,1,1,0,D,1.0,1.0
+158,178,22-23,ENG2,2023-04-19,Watford,Cardiff City,1,3,-2,L,2.0,1.0
+159,179,22-23,ENG2,2023-04-19,Queens Park Rangers,Norwich City,1,1,0,D,1.0,1.0
+160,180,22-23,ENG2,2023-04-19,Swansea City,Preston North End,4,2,2,W,1.0,1.0
+161,181,22-23,ENG2,2023-04-19,Middlesbrough,Hull City,3,1,2,W,2.0,1.0
+162,182,22-23,ENG2,2023-04-19,Reading,Luton Town,1,1,0,D,1.0,1.0
+163,183,22-23,ENG3,2023-04-15,Exeter City,Plymouth Argyle,0,1,-1,L,1.0,1.0
+164,184,22-23,ENG3,2023-04-15,Cambridge,Peterborough United,2,0,2,W,1.0,2.0
+165,185,22-23,ENG3,2023-04-15,Accrington,Fleetwood Town,2,5,-3,L,1.0,1.0
+166,186,22-23,ENG3,2023-04-15,Bristol Rovers,Derby County,1,1,0,D,1.0,1.0
+167,187,22-23,ENG3,2023-04-15,Burton,Sheffield Wednesday,3,2,1,W,1.0,2.0
+168,188,22-23,ENG3,2023-04-15,Morecambe,Wycombe Wanderers,1,0,1,W,1.0,1.0
+169,189,22-23,ENG3,2023-04-15,Forest Green,Barnsley,1,5,-4,L,0.0,2.0
+170,190,22-23,ENG3,2023-04-15,Ipswich Town,Charlton Athletic,6,0,6,W,2.0,1.0
+171,191,22-23,ENG3,2023-04-15,Lincoln,Port Vale,3,2,1,W,1.0,1.0
+172,192,22-23,ENG3,2023-04-15,Milton Keynes Dons,Cheltenham,2,2,0,D,2.0,1.0
+173,193,22-23,ENG3,2023-04-15,Oxford United,Bolton,0,1,-1,L,2.0,1.0
+174,194,22-23,ENG3,2023-04-15,Shrewsbury Town,Portsmouth,1,1,0,D,1.0,1.0
+175,195,22-23,ENG3,2023-04-18,Accrington,Peterborough United,1,2,-1,L,1.0,2.0
+176,196,22-23,ENG3,2023-04-18,Bristol Rovers,Sheffield Wednesday,1,2,-1,L,1.0,2.0
+177,197,22-23,ENG3,2023-04-18,Burton,Bolton,1,1,0,D,1.0,1.0
+178,198,22-23,ENG3,2023-04-18,Cambridge,Wycombe Wanderers,1,2,-1,L,1.0,1.0
+179,199,22-23,ENG3,2023-04-18,Exeter City,Derby County,1,2,-1,L,1.0,1.0
+180,200,22-23,ENG3,2023-04-18,Forest Green,Fleetwood Town,0,0,0,D,1.0,1.0
+181,201,22-23,ENG3,2023-04-18,Ipswich Town,Port Vale,2,1,1,W,2.0,1.0
+182,202,22-23,ENG3,2023-04-18,Lincoln,Barnsley,0,0,0,D,1.0,1.0
+183,203,22-23,ENG3,2023-04-18,Milton Keynes Dons,Charlton Athletic,0,1,-1,L,1.0,1.0
+184,204,22-23,ENG3,2023-04-18,Oxford United,Portsmouth,1,1,0,D,1.0,1.0
+185,205,22-23,ENG3,2023-04-18,Shrewsbury Town,Plymouth Argyle,1,2,-1,L,1.0,1.0
+186,206,22-23,ENG4,2023-04-15,Carlisle,Northampton Town,0,0,0,D,1.0,1.0
+187,207,22-23,ENG4,2023-04-15,Crawley Town,Tranmere,2,1,1,W,1.0,1.0
+188,208,22-23,ENG4,2023-04-15,Crewe Alexandra,Walsall,2,0,2,W,1.0,1.0
+189,209,22-23,ENG4,2023-04-15,Gillingham,Stockport County,1,1,0,D,1.0,1.0
+190,210,22-23,ENG4,2023-04-15,Stevenage,AFC Wimbledon,2,1,1,W,1.0,1.0
+191,211,22-23,ENG4,2023-04-15,Grimsby,Mansfield Town,1,1,0,D,1.0,1.0
+192,212,22-23,ENG4,2023-04-15,Harrogate Town,Doncaster Rovers,2,2,0,D,1.0,1.0
+193,213,22-23,ENG4,2023-04-15,Newport County,Hartlepool,2,0,2,W,2.0,1.0
+194,214,22-23,ENG4,2023-04-15,Rochdale,Bradford,0,3,-3,L,1.0,1.0
+195,215,22-23,ENG4,2023-04-15,Salford City,Colchester,0,1,-1,L,2.0,1.0
+196,216,22-23,ENG4,2023-04-15,Sutton United,Leyton Orient,0,2,-2,L,1.0,1.0
+197,217,22-23,ENG4,2023-04-15,Swindon Town,Barrow,0,0,0,D,1.0,1.0
+198,218,22-23,ENG4,2023-04-18,Carlisle,Stockport County,2,2,0,D,1.0,1.0
+199,219,22-23,ENG4,2023-04-18,Crawley Town,Colchester,0,0,0,D,1.0,1.0
+200,220,22-23,ENG4,2023-04-18,Gillingham,Leyton Orient,2,0,2,W,1.0,1.0
+201,221,22-23,ENG4,2023-04-18,Stevenage,Doncaster Rovers,1,0,1,W,1.0,1.0
+202,222,22-23,ENG4,2023-04-18,Grimsby,Barrow,1,0,1,W,1.0,1.0
+203,223,22-23,ENG4,2023-04-18,Harrogate Town,Walsall,3,0,3,W,1.0,1.0
+204,224,22-23,ENG4,2023-04-18,Newport County,Mansfield Town,1,2,-1,L,1.0,1.0
+205,225,22-23,ENG4,2023-04-18,Rochdale,Tranmere,2,2,0,D,1.0,1.0
+206,226,22-23,ENG4,2023-04-18,Salford City,Hartlepool,2,0,2,W,2.0,1.0
+207,227,22-23,ENG4,2023-04-18,Sutton United,Northampton Town,1,2,-1,L,2.0,1.0
+208,228,22-23,ENG4,2023-04-18,Swindon Town,Bradford,1,0,1,W,1.0,1.0
+209,229,22-23,ENG5,2023-04-15,Aldershot,Scunthorpe United,2,1,1,W,2.0,1.0
+210,230,22-23,ENG5,2023-04-15,Boreham Wood,Wealdstone,1,0,1,W,2.0,1.0
+211,231,22-23,ENG5,2023-04-15,Dorking Wanderers,Altrincham,3,2,1,W,1.0,1.0
+212,232,22-23,ENG5,2023-04-15,Barnet,Wrexham,0,0,0,D,1.0,2.0
+213,233,22-23,ENG5,2023-04-15,Chesterfield,Eastleigh,3,2,1,W,2.0,1.0
+214,234,22-23,ENG5,2023-04-15,Gateshead,Bromley,0,3,-3,L,1.0,1.0
+215,235,22-23,ENG5,2023-04-15,Halifax,Maidstone,3,0,3,W,2.0,1.0
+216,236,22-23,ENG5,2023-04-15,Notts County,Woking,3,0,3,W,2.0,1.0
+217,237,22-23,ENG5,2023-04-15,Oldham Athletic,Maidenhead United,1,0,1,W,1.0,1.0
+218,238,22-23,ENG5,2023-04-15,Solihull,Yeovil Town,2,2,0,D,2.0,1.0
+219,239,22-23,ENG5,2023-04-15,Southend,Dagenham and Redbridge,2,0,2,W,1.0,1.0
+220,240,22-23,ENG5,2023-04-15,Torquay,York City,3,2,1,W,1.0,1.0
+221,241,22-23,ENG5,2023-04-18,Wrexham,Yeovil Town,3,0,3,W,3.0,1.0
+222,242,22-23,ENG5,2023-04-18,Gateshead,Dorking Wanderers,0,0,0,D,2.0,1.0
+223,243,22-23,ENG5,2023-04-18,Oldham Athletic,Southend,2,0,2,W,1.0,1.0
+224,244,22-23,ENG5,2023-04-18,Chesterfield,Torquay,5,1,4,W,2.0,1.0
+225,245,22-23,ENG5,2023-04-18,Halifax,Bromley,1,1,0,D,1.0,1.0
+226,246,22-23,ENG5,2023-04-18,Altrincham,Dagenham and Redbridge,2,2,0,D,1.0,1.0
+227,247,22-23,ENG5,2023-04-18,Barnet,Solihull,1,0,1,W,1.0,1.0
+228,248,22-23,FRA1,2023-04-14,Toulouse,Olympique Lyonnais,1,2,-1,L,1.0,2.0
+229,249,22-23,FRA1,2023-04-15,Rennes,Stade de Reims,3,0,3,W,2.0,1.0
+230,250,22-23,FRA1,2023-04-15,Paris Saint-Germain,Lens,3,1,2,W,2.0,1.0
+231,251,22-23,FRA1,2023-04-16,Lille,Montpellier,2,1,1,W,2.0,1.0
+232,252,22-23,FRA1,2023-04-16,Auxerre,Nantes,2,1,1,W,1.0,1.0
+233,253,22-23,FRA1,2023-04-16,Clermont,Angers SCO,2,1,1,W,2.0,1.0
+234,254,22-23,FRA1,2023-04-16,RC Strasbourg,AC Ajaccio,3,1,2,W,2.0,1.0
+235,255,22-23,FRA1,2023-04-16,Brest,Nice,1,0,1,W,1.0,1.0
+236,256,22-23,FRA1,2023-04-16,Monaco,Lorient,3,1,2,W,2.0,1.0
+237,257,22-23,FRA1,2023-04-16,Olympique Marseille,Troyes,3,1,2,W,2.0,1.0
+238,258,22-23,FRA1,2023-04-21,Angers SCO,Paris Saint-Germain,1,2,-1,L,1.0,2.0
+239,259,22-23,FRA1,2023-04-22,Auxerre,Lille,1,1,0,D,1.0,1.0
+240,260,22-23,FRA1,2023-04-22,Lens,Monaco,3,0,3,W,1.0,1.0
+241,261,22-23,FRA1,2023-04-23,Stade de Reims,RC Strasbourg,0,2,-2,L,1.0,1.0
+242,262,22-23,FRA1,2023-04-23,AC Ajaccio,Brest,0,0,0,D,1.0,1.0
+243,263,22-23,FRA1,2023-04-23,Lorient,Toulouse,0,1,-1,L,2.0,1.0
+244,264,22-23,FRA1,2023-04-23,Nantes,Troyes,2,2,0,D,2.0,1.0
+245,265,22-23,FRA1,2023-04-23,Nice,Clermont,1,2,-1,L,2.0,1.0
+246,266,22-23,FRA1,2023-04-23,Montpellier,Rennes,1,0,1,W,1.0,2.0
+247,267,22-23,FRA1,2023-04-23,Olympique Lyonnais,Olympique Marseille,1,2,-1,L,1.0,1.0
+248,268,22-23,FRA2,2023-04-15,FC Metz,Bordeaux,3,0,3,W,1.0,1.0
+249,269,22-23,FRA2,2023-04-15,Guingamp,Amiens SC,3,1,2,W,1.0,1.0
+250,270,22-23,FRA2,2023-04-15,Sochaux,FC Pau,2,3,-1,L,1.0,1.0
+251,271,22-23,FRA2,2023-04-15,Valenciennes,Chamois Niortais,0,0,0,D,1.0,1.0
+252,272,22-23,FRA2,2023-04-15,Nimes Olympique,Havre AC,0,1,-1,L,1.0,1.0
+253,273,22-23,FRA2,2023-04-15,Rodez AF,Laval,1,0,1,W,1.0,1.0
+254,274,22-23,FRA2,2023-04-15,SC Bastia,Annecy,3,0,3,W,1.0,1.0
+255,275,22-23,FRA2,2023-04-15,Caen,Paris FC,3,1,2,W,1.0,1.0
+256,276,22-23,FRA2,2023-04-15,US Quevilly,Dijon,2,2,0,D,1.0,1.0
+257,277,22-23,FRA2,2023-04-17,Grenoble,St Etienne,0,2,-2,L,1.0,1.0
+258,278,22-23,FRA2,2023-04-22,St Etienne,FC Metz,1,3,-2,L,1.0,1.0
+259,279,22-23,FRA2,2023-04-22,Havre AC,US Quevilly,0,0,0,D,1.0,1.0
+260,280,22-23,FRA2,2023-04-22,Dijon,SC Bastia,1,1,0,D,1.0,1.0
+261,281,22-23,FRA2,2023-04-22,Annecy,Rodez AF,0,3,-3,L,1.0,1.0
+262,282,22-23,FRA2,2023-04-22,Chamois Niortais,Caen,1,2,-1,L,1.0,1.0
+263,283,22-23,FRA2,2023-04-22,Paris FC,Nimes Olympique,3,0,3,W,1.0,1.0
+264,284,22-23,FRA2,2023-04-22,FC Pau,Guingamp,2,1,1,W,1.0,1.0
+265,285,22-23,FRA2,2023-04-22,Amiens SC,Valenciennes,0,2,-2,L,1.0,1.0
+266,286,22-23,FRA2,2023-04-22,Laval,Sochaux,2,1,1,W,1.0,1.0
+267,287,22-23,FRA3,2023-04-14,Nancy,Red Star,1,4,-3,L,1.0,1.0
+268,288,22-23,FRA3,2023-04-14,Bastia-Borgo,CS Sedan,1,1,0,D,1.0,1.0
+269,289,22-23,FRA3,2023-04-14,Bourg Peronnas,Le Puy,2,0,2,W,1.0,1.0
+270,290,22-23,FRA3,2023-04-14,Le Mans,LB Chateauroux,1,1,0,D,1.0,1.0
+271,291,22-23,FRA3,2023-04-14,SO Cholet,Briochin,0,1,-1,L,1.0,1.0
+272,292,22-23,FRA3,2023-04-14,US Concarneau,Paris 13 Atletico,3,0,3,W,1.0,1.0
+273,293,22-23,FRA3,2023-04-14,Orleans,FC Martigues,1,4,-3,L,1.0,1.0
+274,294,22-23,FRA3,2023-04-14,USL Dunkerque,US Avranches,2,0,2,W,1.0,1.0
+275,295,22-23,FRA3,2023-04-14,FC Versailles,Villefranche Beaujolais,1,0,1,W,1.0,1.0
+276,296,22-23,FRA3,2023-04-21,Bourg Peronnas,Le Mans,1,1,0,D,1.0,1.0
+277,297,22-23,FRA3,2023-04-21,CS Sedan,FC Versailles,1,2,-1,L,1.0,1.0
+278,298,22-23,FRA3,2023-04-21,FC Martigues,USL Dunkerque,1,0,1,W,1.0,1.0
+279,299,22-23,FRA3,2023-04-21,Red Star,Bastia-Borgo,1,0,1,W,1.0,1.0
+280,300,22-23,FRA3,2023-04-21,Le Puy,Orleans,0,1,-1,L,1.0,1.0
+281,301,22-23,FRA3,2023-04-21,Paris 13 Atletico,Nancy,2,2,0,D,1.0,1.0
+282,302,22-23,FRA3,2023-04-21,Briochin,LB Chateauroux,2,1,1,W,1.0,1.0
+283,303,22-23,FRA3,2023-04-21,US Avranches,US Concarneau,0,3,-3,L,1.0,1.0
+284,304,22-23,FRA3,2023-04-21,Villefranche Beaujolais,SO Cholet,0,0,0,D,1.0,1.0
+285,305,22-23,GER1,2023-04-14,Schalke 04,Hertha Berlin,5,2,3,W,2.0,1.0
+286,306,22-23,GER1,2023-04-15,VfB Stuttgart,Dortmund,3,3,0,D,1.0,2.0
+287,307,22-23,GER1,2023-04-15,FC Koln,Mainz 05,1,1,0,D,2.0,1.0
+288,308,22-23,GER1,2023-04-15,Bayern Munich,Hoffenheim,1,1,0,D,3.0,1.0
+289,309,22-23,GER1,2023-04-15,RB Leipzig,Augsburg,3,2,1,W,3.0,1.0
+290,310,22-23,GER1,2023-04-15,Eintracht Frankfurt,Monchengladbach,1,1,0,D,2.0,1.0
+291,311,22-23,GER1,2023-04-16,Werder Bremen,Freiburg,1,2,-1,L,1.0,2.0
+292,312,22-23,GER1,2023-04-16,Union Berlin,Bochum,1,1,0,D,2.0,1.0
+293,313,22-23,GER1,2023-04-16,Wolfsburg,Leverkusen,0,0,0,D,1.0,1.0
+294,314,22-23,GER1,2023-04-21,Augsburg,VfB Stuttgart,1,1,0,D,2.0,1.0
+295,315,22-23,GER1,2023-04-22,Mainz 05,Bayern Munich,3,1,2,W,1.0,3.0
+296,316,22-23,GER1,2023-04-22,Hoffenheim,FC Koln,1,3,-2,L,1.0,1.0
+297,317,22-23,GER1,2023-04-22,Bochum,Wolfsburg,1,5,-4,L,2.0,1.0
+298,318,22-23,GER1,2023-04-22,Hertha Berlin,Werder Bremen,2,4,-2,L,2.0,1.0
+299,319,22-23,GER1,2023-04-22,Dortmund,Eintracht Frankfurt,4,0,4,W,2.0,1.0
+300,320,22-23,GER1,2023-04-23,Freiburg,Schalke 04,4,0,4,W,2.0,1.0
+301,321,22-23,GER1,2023-04-23,Leverkusen,RB Leipzig,2,0,2,W,2.0,2.0
+302,322,22-23,GER1,2023-04-23,Monchengladbach,Union Berlin,0,1,-1,L,2.0,1.0
+303,323,22-23,GER2,2023-04-14,Hannover 96,Heidenheim,0,3,-3,L,1.0,2.0
+304,324,22-23,GER2,2023-04-14,Greuther Furth,Jahn Regensburg,2,1,1,W,2.0,1.0
+305,325,22-23,GER2,2023-04-15,Holstein Kiel,Nurnberg,2,1,1,W,2.0,1.0
+306,326,22-23,GER2,2023-04-15,Paderborn,Hansa Rostock,3,0,3,W,2.0,1.0
+307,327,22-23,GER2,2023-04-15,Magdeburg,Sandhausen,1,2,-1,L,1.0,1.0
+308,328,22-23,GER2,2023-04-15,Kaiserslautern,Hamburger SV,2,0,2,W,1.0,2.0
+309,329,22-23,GER2,2023-04-16,Karlsruher SC,Arminia Bielefeld,4,2,2,W,1.0,1.0
+310,330,22-23,GER2,2023-04-16,Fortuna Dusseldorf,Darmstadt 98,1,0,1,W,2.0,2.0
+311,331,22-23,GER2,2023-04-16,St Pauli,Braunschweig,1,2,-1,L,2.0,1.0
+312,332,22-23,GER2,2023-04-21,Hamburger SV,St Pauli,4,3,1,W,2.0,2.0
+313,333,22-23,GER2,2023-04-21,Darmstadt 98,Karlsruher SC,2,1,1,W,2.0,1.0
+314,334,22-23,GER2,2023-04-22,Hansa Rostock,Greuther Furth,2,0,2,W,0.0,2.0
+315,335,22-23,GER2,2023-04-22,Nurnberg,Fortuna Dusseldorf,2,0,2,W,1.0,1.0
+316,336,22-23,GER2,2023-04-22,Arminia Bielefeld,Hannover 96,1,3,-2,L,2.0,1.0
+317,337,22-23,GER2,2023-04-22,Braunschweig,Magdeburg,1,2,-1,L,1.0,1.0
+318,338,22-23,GER2,2023-04-23,Sandhausen,Paderborn,2,2,0,D,1.0,1.0
+319,339,22-23,GER2,2023-04-23,Heidenheim,Holstein Kiel,3,0,3,W,2.0,1.0
+320,340,22-23,GER2,2023-04-23,Jahn Regensburg,Kaiserslautern,0,0,0,D,1.0,1.0
+321,341,22-23,GER3,2023-04-14,Saarbrucken,Dynamo Dresden,2,0,2,W,1.0,2.0
+322,342,22-23,GER3,2023-04-15,Ingolstadt,VfB Oldenburg,0,2,-2,L,2.0,1.0
+323,343,22-23,GER3,2023-04-15,Wehen Wiesbaden,Munich 1860,2,0,2,W,2.0,2.0
+324,344,22-23,GER3,2023-04-15,Osnabruck,Elversberg,1,0,1,W,2.0,2.0
+325,345,22-23,GER3,2023-04-15,Dortmund II,SV Meppen,1,0,1,W,1.0,1.0
+326,346,22-23,GER3,2023-04-15,SpVgg Bayreuth,Hallescher FC,0,1,-1,L,2.0,1.0
+327,347,22-23,GER3,2023-04-15,Erzgebirge Aue,Verl,2,3,-1,L,2.0,1.0
+328,348,22-23,GER3,2023-04-16,Freiburg II,Zwickau,4,0,4,W,2.0,1.0
+329,349,22-23,GER3,2023-04-16,RW Essen,Mannheim,0,3,-3,L,1.0,1.0
+330,350,22-23,GER3,2023-04-17,Viktoria Koln,MSV Duisburg,2,2,0,D,2.0,1.0
+331,351,22-23,GER3,2023-04-21,Hallescher FC,Osnabruck,0,1,-1,L,1.0,2.0
+332,352,22-23,GER3,2023-04-22,MSV Duisburg,Wehen Wiesbaden,1,1,0,D,1.0,2.0
+333,353,22-23,GER3,2023-04-22,Elversberg,Erzgebirge Aue,0,1,-1,L,2.0,2.0
+334,354,22-23,GER3,2023-04-22,Viktoria Koln,Ingolstadt,3,1,2,W,1.0,1.0
+335,355,22-23,GER3,2023-04-22,Dynamo Dresden,Mannheim,2,1,1,W,2.0,1.0
+336,356,22-23,GER3,2023-04-22,VfB Oldenburg,Freiburg II,0,0,0,D,1.0,2.0
+337,357,22-23,GER3,2023-04-22,Munich 1860,SpVgg Bayreuth,2,0,2,W,2.0,1.0
+338,358,22-23,GER3,2023-04-23,SV Meppen,Saarbrucken,1,0,1,W,1.0,1.0
+339,360,22-23,GER3,2023-04-24,Verl,Dortmund II,2,1,1,W,2.0,1.0
+340,361,22-23,GRE1,2023-04-22,Levadeiakos,Ionikos,2,2,0,D,1.0,1.0
+341,362,22-23,GRE1,2023-04-22,OFI Heraklion,Asteras Tripolis,1,1,0,D,1.0,1.0
+342,363,22-23,GRE1,2023-04-22,Giannina,Panetolikos,3,2,1,W,1.0,1.0
+343,364,22-23,GRE1,2023-04-22,Lamia FC,Atromitos,1,0,1,W,1.0,1.0
+344,365,22-23,GRE1,2023-04-22,Volos NFC,Aris,0,3,-3,L,1.0,1.0
+345,366,22-23,GRE1,2023-04-22,Olympiakos Piraeus,AEK,1,3,-2,L,1.0,1.0
+346,367,22-23,GRE1,2023-04-22,PAOK,Panathinaikos,1,2,-1,L,1.0,1.0
+347,368,22-23,GRE1,2023-04-26,AEK,PAOK,4,0,4,W,1.0,1.0
+348,369,22-23,GRE1,2023-04-26,Aris,Olympiakos Piraeus,2,1,1,W,0.0,2.0
+349,370,22-23,GRE1,2023-04-26,Volos NFC,Panathinaikos,0,2,-2,L,1.0,1.0
+350,371,22-23,HOL1,2023-04-14,Excelsior,Go Ahead Eagles,2,1,1,W,1.0,1.0
+351,372,22-23,HOL1,2023-04-15,Waalwijk,Groningen,2,1,1,W,2.0,1.0
+352,373,22-23,HOL1,2023-04-15,Sparta Rotterdam,Heerenveen,4,0,4,W,1.0,1.0
+353,374,22-23,HOL1,2023-04-16,NEC Nijmegen,Vitesse,1,4,-3,L,1.0,1.0
+354,375,22-23,HOL1,2023-04-16,Utrecht,Twente Enschede,1,0,1,W,2.0,1.0
+355,376,22-23,HOL1,2023-04-16,Volendam,PSV Eindhoven,2,3,-1,L,1.0,2.0
+356,377,22-23,HOL1,2023-04-16,For Sittard,AZ Alkmaar,0,3,-3,L,1.0,2.0
+357,378,22-23,HOL1,2023-04-16,Cambuur,Feyenoord Rotterdam,0,3,-3,L,1.0,2.0
+358,379,22-23,HOL1,2023-04-16,Ajax Amsterdam,FC Emmen,3,1,2,W,3.0,1.0
+359,380,22-23,HOL1,2023-04-19,Go Ahead Eagles,Waalwijk,3,2,1,W,1.0,1.0
+360,381,22-23,HOL1,2023-04-21,Volendam,Cambuur,2,0,2,W,1.0,1.0
+361,382,22-23,HOL1,2023-04-22,Heerenveen,FC Emmen,2,3,-1,L,2.0,1.0
+362,383,22-23,HOL1,2023-04-22,Groningen,NEC Nijmegen,0,1,-1,L,1.0,1.0
+363,384,22-23,HOL1,2023-04-22,Vitesse,Excelsior,0,0,0,D,1.0,1.0
+364,385,22-23,HOL1,2023-04-23,Twente Enschede,Sparta Rotterdam,3,3,0,D,2.0,1.0
+365,386,22-23,HOL1,2023-04-23,Go Ahead Eagles,For Sittard,2,0,2,W,1.0,1.0
+366,387,22-23,HOL1,2023-04-23,PSV Eindhoven,Ajax Amsterdam,3,0,3,W,1.0,2.0
+367,388,22-23,HOL1,2023-04-23,Feyenoord Rotterdam,Utrecht,3,1,2,W,2.0,1.0
+368,389,22-23,HOL1,2023-04-23,AZ Alkmaar,Waalwijk,3,0,3,W,2.0,1.0
+369,390,22-23,ISR1,2023-04-15,Hapoel Haifa,Hapoel Tel Aviv,1,0,1,W,1.0,1.0
+370,391,22-23,ISR1,2023-04-15,Hapoel Hadera,Ironi Kiryat Shmona,1,1,0,D,1.0,1.0
+371,392,22-23,ISR1,2023-04-15,FS Ness Ziona,Maccabi Bnei Raina FC,1,2,-1,L,1.0,2.0
+372,393,22-23,ISR1,2023-04-15,Hapoel Jerusalem,Maccabi Haifa,2,1,1,W,1.0,1.0
+373,394,22-23,ISR1,2023-04-15,Maccabi Tel Aviv,FC Ashdod,1,1,0,D,2.0,1.0
+374,395,22-23,ISR1,2023-04-16,Bnei Sachnin FC,Beitar Jerusalem,4,3,1,W,1.0,1.0
+375,396,22-23,ISR1,2023-04-16,Maccabi Netanya,Hapoel Beer Sheva,1,1,0,D,1.0,1.0
+376,397,22-23,ISR1,2023-04-22,Hapoel Tel Aviv,Maccabi Bnei Raina FC,1,2,-1,L,1.0,2.0
+377,398,22-23,ISR1,2023-04-22,Ironi Kiryat Shmona,FS Ness Ziona,1,1,0,D,1.0,2.0
+378,399,22-23,ISR1,2023-04-22,Hapoel Haifa,Bnei Sachnin FC,2,2,0,D,1.0,1.0
+379,400,22-23,ISR1,2023-04-22,Hapoel Jerusalem,Hapoel Beer Sheva,1,2,-1,L,0.0,1.0
+380,401,22-23,ISR1,2023-04-22,Maccabi Netanya,Maccabi Tel Aviv,0,0,0,D,1.0,2.0
+381,402,22-23,ISR1,2023-04-23,Beitar Jerusalem,Hapoel Hadera,2,1,1,W,1.0,1.0
+382,403,22-23,ISR1,2023-04-23,FC Ashdod,Maccabi Haifa,1,2,-1,L,1.0,1.0
+383,404,22-23,ITA1,2023-04-14,Cremonese,Empoli,1,0,1,W,1.0,1.0
+384,405,22-23,ITA1,2023-04-14,Spezia,Lazio,0,3,-3,L,1.0,2.0
+385,406,22-23,ITA1,2023-04-15,Bologna,AC Milan,1,1,0,D,1.0,2.0
+386,407,22-23,ITA1,2023-04-15,Napoli,Hellas Verona,0,0,0,D,2.0,1.0
+387,408,22-23,ITA1,2023-04-15,Internazionale Milano,Monza,0,1,-1,L,2.0,1.0
+388,409,22-23,ITA1,2023-04-16,Lecce,Sampdoria,1,1,0,D,1.0,1.0
+389,410,22-23,ITA1,2023-04-16,Torino,Salernitana,1,1,0,D,2.0,1.0
+390,411,22-23,ITA1,2023-04-16,Sassuolo,Juventus,1,0,1,W,1.0,2.0
+391,412,22-23,ITA1,2023-04-16,Roma,Udinese,3,0,3,W,1.0,1.0
+392,413,22-23,ITA1,2023-04-17,Fiorentina,Atalanta,1,1,0,D,1.0,1.0
+393,414,22-23,ITA1,2023-04-21,Hellas Verona,Bologna,2,1,1,W,1.0,1.0
+394,415,22-23,ITA1,2023-04-22,Salernitana,Sassuolo,3,0,3,W,1.0,1.0
+395,416,22-23,ITA1,2023-04-22,Lazio,Torino,0,1,-1,L,2.0,1.0
+396,417,22-23,ITA1,2023-04-22,Sampdoria,Spezia,1,1,0,D,1.0,1.0
+397,418,22-23,ITA1,2023-04-23,Empoli,Internazionale Milano,0,3,-3,L,1.0,2.0
+398,419,22-23,ITA1,2023-04-23,Monza,Fiorentina,3,2,1,W,1.0,1.0
+399,420,22-23,ITA1,2023-04-23,Udinese,Cremonese,3,0,3,W,2.0,1.0
+400,421,22-23,ITA1,2023-04-23,AC Milan,Lecce,2,0,2,W,2.0,1.0
+401,422,22-23,ITA1,2023-04-23,Juventus,Napoli,0,1,-1,L,1.0,2.0
+402,423,22-23,ITA1,2023-04-24,Atalanta,Roma,3,1,2,W,1.0,1.0
+403,424,22-23,ITA2,2023-04-14,Modena,Parma,1,1,0,D,1.0,1.0
+404,425,22-23,ITA2,2023-04-15,Ascoli,FC Sudtirol,1,0,1,W,1.0,1.0
+405,426,22-23,ITA2,2023-04-15,Benevento,Reggina,1,1,0,D,1.0,1.0
+406,427,22-23,ITA2,2023-04-15,Genoa,Perugia,2,0,2,W,2.0,1.0
+407,428,22-23,ITA2,2023-04-15,Cosenza,Cittadella,1,1,0,D,1.0,1.0
+408,429,22-23,ITA2,2023-04-15,Venezia,Palermo,3,2,1,W,1.0,1.0
+409,430,22-23,ITA2,2023-04-15,SPAL Ferrara,Brescia,2,2,0,D,1.0,1.0
+410,431,22-23,ITA2,2023-04-15,Bari 1908,Como,2,2,0,D,1.0,1.0
+411,432,22-23,ITA2,2023-04-15,Cagliari,Frosinone,0,0,0,D,1.0,1.0
+412,433,22-23,ITA2,2023-04-16,Ternana,Pisa,2,1,1,W,1.0,1.0
+413,434,22-23,ITA2,2023-04-21,Reggina,Brescia,1,2,-1,L,1.0,1.0
+414,435,22-23,ITA2,2023-04-22,Perugia,Cosenza,0,0,0,D,2.0,1.0
+415,436,22-23,ITA2,2023-04-22,Cittadella,Genoa,0,1,-1,L,1.0,1.0
+416,437,22-23,ITA2,2023-04-22,Como,Ascoli,1,1,0,D,1.0,1.0
+417,438,22-23,ITA2,2023-04-22,Modena,SPAL Ferrara,0,0,0,D,2.0,1.0
+418,439,22-23,ITA2,2023-04-22,Frosinone,FC Sudtirol,0,0,0,D,1.0,1.0
+419,440,22-23,ITA2,2023-04-22,Parma,Cagliari,2,1,1,W,1.0,1.0
+420,441,22-23,ITA2,2023-04-22,Palermo,Benevento,1,1,0,D,1.0,1.0
+421,442,22-23,ITA2,2023-04-23,Pisa,Bari 1908,1,2,-1,L,1.0,1.0
+422,443,22-23,ITA2,2023-04-23,Ternana,Venezia,1,4,-3,L,1.0,1.0
+423,444,23-24,JPN1,2023-04-15,Albirex,Avispa,3,2,1,W,1.0,2.0
+424,445,23-24,JPN1,2023-04-15,Yokohama FC,Sanfrecce,0,3,-3,L,2.0,2.0
+425,446,23-24,JPN1,2023-04-15,Kawasaki Frontale,Nagoya Grampus,1,2,-1,L,2.0,1.0
+426,447,23-24,JPN1,2023-04-15,Sagan Tosu,Kashiwa Reysol,1,1,0,D,2.0,1.0
+427,448,23-24,JPN1,2023-04-15,Shonan Bellmare,Yokohama Marinos,1,1,0,D,2.0,2.0
+428,449,23-24,JPN1,2023-04-15,Red Diamonds,Hokkaido Sapporo,4,1,3,W,2.0,1.0
+429,450,23-24,JPN1,2023-04-15,FC Tokyo,Cerezo Osaka,1,2,-1,L,2.0,2.0
+430,451,23-24,JPN1,2023-04-15,Kashima Antlers,Vissel Kobe,1,5,-4,L,1.0,1.0
+431,452,23-24,JPN1,2023-04-15,Kyoto Sanga,Gamba Osaka,2,1,1,W,1.0,1.0
+432,453,23-24,JPN1,2023-04-22,Sanfrecce,FC Tokyo,1,2,-1,L,2.0,1.0
+433,454,23-24,JPN1,2023-04-22,Vissel Kobe,Yokohama Marinos,2,3,-1,L,2.0,2.0
+434,455,23-24,JPN1,2023-04-23,Albirex,Kashima Antlers,0,2,-2,L,1.0,2.0
+435,456,23-24,JPN1,2023-04-23,Cerezo Osaka,Kashiwa Reysol,1,0,1,W,2.0,1.0
+436,457,23-24,JPN1,2023-04-23,Hokkaido Sapporo,Avispa,2,2,0,D,1.0,1.0
+437,458,23-24,JPN1,2023-04-23,Kyoto Sanga,Sagan Tosu,2,3,-1,L,1.0,1.0
+438,459,23-24,JPN1,2023-04-23,Nagoya Grampus,Shonan Bellmare,2,2,0,D,1.0,1.0
+439,460,23-24,JPN1,2023-04-23,Gamba Osaka,Yokohama FC,1,1,0,D,2.0,1.0
+440,461,23-24,JPN1,2023-04-23,Kawasaki Frontale,Red Diamonds,1,1,0,D,2.0,1.0
+441,462,23-24,JPN2,2023-04-16,Ventforet Kofu,Tochigi SC,1,0,1,W,1.0,1.0
+442,463,23-24,JPN2,2023-04-16,Blaublitz,Omiya Ardija,2,1,1,W,1.0,1.0
+443,464,23-24,JPN2,2023-04-16,Iwaki FC,Thespakusatsu,2,1,1,W,1.0,1.0
+444,465,23-24,JPN2,2023-04-16,JEF United,Tokyo Verdy,1,0,1,W,1.0,1.0
+445,466,23-24,JPN2,2023-04-16,Machida Zelvia,Oita Trinita,3,1,2,W,1.0,1.0
+446,467,23-24,JPN2,2023-04-16,Montedio Yamagata,Zweigen,0,1,-1,L,2.0,1.0
+447,468,23-24,JPN2,2023-04-16,Renofa Yamaguchi,Shimizu Pulse,0,6,-6,L,1.0,2.0
+448,469,23-24,JPN2,2023-04-16,Tokushima Vortis,Varen Nagasaki,0,4,-4,L,1.0,1.0
+449,470,23-24,JPN2,2023-04-16,Vegalta Sendai,Fagiano,1,1,0,D,1.0,1.0
+450,471,23-24,JPN2,2023-04-16,HollyHock,Fujieda MyFC,1,4,-3,L,1.0,1.0
+451,472,23-24,JPN2,2023-04-16,Jubilo Iwata,Roasso Kumamoto,1,1,0,D,1.0,1.0
+452,473,23-24,KOR1,2023-04-15,Suwon Bluewings,Jeju United,2,3,-1,L,1.0,1.0
+453,474,23-24,KOR1,2023-04-15,Pohang Steelers,FC Seoul,1,1,0,D,1.0,1.0
+454,475,23-24,KOR1,2023-04-15,Suwon City FC,Jeonbuk FC,1,0,1,W,1.0,2.0
+455,476,23-24,KOR1,2023-04-16,Gangwon FC,Incheon United,0,2,-2,L,2.0,2.0
+456,477,23-24,KOR1,2023-04-16,Daejeon Citizen,Ulsan Hyundai,2,1,1,W,2.0,2.0
+457,478,23-24,KOR1,2023-04-16,Daegu FC,Gwangju FC,3,4,-1,L,2.0,2.0
+458,479,23-24,KOR1,2023-04-22,FC Seoul,Suwon Bluewings,3,1,2,W,1.0,1.0
+459,480,23-24,KOR1,2023-04-22,Daegu FC,Daejeon Citizen,1,0,1,W,2.0,2.0
+460,481,23-24,KOR1,2023-04-22,Ulsan Hyundai,Pohang Steelers,2,2,0,D,2.0,1.0
+461,482,23-24,KOR1,2023-04-22,Incheon United,Suwon City FC,2,2,0,D,2.0,1.0
+462,483,23-24,KOR1,2023-04-23,Gwangju FC,Gangwon FC,0,0,0,D,2.0,2.0
+463,484,23-24,KOR1,2023-04-23,Jeju United,Jeonbuk FC,0,2,-2,L,1.0,2.0
+464,485,22-23,MAR1,2023-04-15,Raja Casablanca,Jeunesse Sportive Soualem,0,0,0,D,2.0,1.0
+465,486,22-23,MAR1,2023-04-15,Renaissance de Berkane,FUS de Rabat,1,0,1,W,1.0,1.0
+466,487,22-23,MAR1,2023-04-15,Mouloudia Oujda,Maghrib de Fes,2,1,1,W,1.0,1.0
+467,488,22-23,MAR1,2023-04-15,Ittihad Tanger,Olympique de Khouribga,3,0,3,W,1.0,1.0
+468,489,22-23,MAR1,2023-04-15,FAR de Rabat,Moghreb de Tetouan,2,1,1,W,2.0,1.0
+469,490,22-23,MAR1,2023-04-15,SC Chabab Mohammedia,Hassania US Agadir,1,2,-1,L,1.0,1.0
+470,491,22-23,MAR1,2023-04-15,Difaa Jadida,Olympique de Safi,0,1,-1,L,1.0,1.0
+471,492,22-23,MAR1,2023-04-15,Union de Touarga,Wydad AC,1,2,-1,L,1.0,1.0
+472,493,22-23,MAR1,2023-04-22,FUS de Rabat,Difaa Jadida,5,0,5,W,2.0,1.0
+473,494,22-23,MAR1,2023-04-22,Jeunesse Sportive Soualem,Union de Touarga,2,2,0,D,1.0,1.0
+474,496,22-23,MAR1,2023-04-22,Olympique de Safi,SC Chabab Mohammedia,0,0,0,D,1.0,1.0
+475,497,22-23,MAR1,2023-04-22,Hassania US Agadir,Moghreb de Tetouan,1,0,1,W,1.0,1.0
+476,498,22-23,MAR1,2023-04-22,Olympique de Khouribga,Mouloudia Oujda,1,1,0,D,1.0,1.0
+477,499,22-23,MAR1,2023-04-22,Ittihad Tanger,Renaissance de Berkane,2,1,1,W,1.0,1.0
+478,501,22-23,MEX1,2023-04-14,Atletico San Luis,FC Juarez,2,0,2,W,2.0,1.0
+479,502,22-23,MEX1,2023-04-15,Club Necaxa,Puebla FC,1,1,0,D,1.0,1.0
+480,503,22-23,MEX1,2023-04-15,Mazatlan,Club Tijuana,1,2,-1,L,2.0,1.0
+481,504,22-23,MEX1,2023-04-16,Atlas Guadalajara,CF Pachuca,4,1,3,W,2.0,2.0
+482,505,22-23,MEX1,2023-04-16,Club Leon,Deportivo Guadalajara,0,2,-2,L,1.0,1.0
+483,506,22-23,MEX1,2023-04-16,Cruz Azul,Club de Futbol America,1,3,-2,L,2.0,2.0
+484,507,22-23,MEX1,2023-04-16,Pumas de la UNAM,Deportivo Toluca,3,1,2,W,2.0,1.0
+485,508,22-23,MEX1,2023-04-17,Gallos Blancos Queretaro FC,Tigres de la Universidad Autonoma,0,0,0,D,2.0,2.0
+486,509,22-23,MEX1,2023-04-17,CF Monterrey,Santos Laguna,1,2,-1,L,2.0,2.0
+487,510,22-23,MEX1,2023-04-21,Tigres de la Universidad Autonoma,Puebla FC,1,0,1,W,2.0,1.0
+488,511,22-23,MEX1,2023-04-22,Club Necaxa,Atlas Guadalajara,1,3,-2,L,1.0,1.0
+489,512,22-23,MEX1,2023-04-22,Mazatlan,CF Monterrey,0,2,-2,L,1.0,2.0
+490,513,22-23,MEX1,2023-04-22,Club Tijuana,Club Leon,0,0,0,D,2.0,2.0
+491,514,22-23,MEX1,2023-04-23,CF Pachuca,Atletico San Luis,2,1,1,W,2.0,1.0
+492,515,22-23,MEX1,2023-04-23,Deportivo Guadalajara,Cruz Azul,2,1,1,W,1.0,1.0
+493,516,22-23,MEX1,2023-04-23,Club de Futbol America,Pumas de la UNAM,1,1,0,D,2.0,1.0
+494,517,22-23,MEX1,2023-04-23,Deportivo Toluca,FC Juarez,1,1,0,D,2.0,1.0
+495,518,22-23,MEX1,2023-04-24,Santos Laguna,Gallos Blancos Queretaro FC,0,2,-2,L,3.0,1.0
+496,519,22-23,POR1,2023-04-16,Famalicao,Guimaraes,2,1,1,W,1.0,1.0
+497,520,22-23,POR1,2023-04-16,Porto,Santa Clara,2,1,1,W,3.0,1.0
+498,521,22-23,POR1,2023-04-16,Rio Ave,Casa Pia AC,1,1,0,D,1.0,1.0
+499,522,22-23,POR1,2023-04-16,Vizela,Boavista,1,1,0,D,1.0,1.0
+500,523,22-23,POR1,2023-04-16,Chaves,Benfica,1,0,1,W,1.0,2.0
+501,524,22-23,POR1,2023-04-16,Estoril,Portimonense,0,1,-1,L,1.0,1.0
+502,525,22-23,POR1,2023-04-16,Maritimo,Pacos Ferreira,3,1,2,W,1.0,1.0
+503,526,22-23,POR1,2023-04-16,Sporting Braga,Gil Vicente,1,0,1,W,2.0,1.0
+504,527,22-23,POR1,2023-04-16,Sporting Lisbon,Arouca,1,1,0,D,3.0,1.0
+505,528,22-23,POR1,2023-04-23,Benfica,Estoril,1,0,1,W,3.0,0.0
+506,529,22-23,POR1,2023-04-23,Boavista,Rio Ave,3,2,1,W,1.0,1.0
+507,530,22-23,POR1,2023-04-23,Casa Pia AC,Sporting Braga,0,1,-1,L,1.0,2.0
+508,531,22-23,POR1,2023-04-23,Santa Clara,Chaves,1,1,0,D,1.0,1.0
+509,532,22-23,POR1,2023-04-23,Arouca,Vizela,1,0,1,W,1.0,1.0
+510,533,22-23,POR1,2023-04-23,Famalicao,Maritimo,3,2,1,W,1.0,1.0
+511,534,22-23,POR1,2023-04-23,Pacos Ferreira,Porto,0,2,-2,L,0.0,3.0
+512,535,22-23,POR1,2023-04-23,Portimonense,Gil Vicente,1,0,1,W,1.0,1.0
+513,536,22-23,POR1,2023-04-23,Guimaraes,Sporting Lisbon,0,2,-2,L,1.0,2.0
+514,537,22-23,RUS1,2023-04-15,Dinamo Moscow,Nizhny Novgorod,3,1,2,W,2.0,1.0
+515,538,22-23,RUS1,2023-04-15,Fakel Voronezh,Terek Grozny,1,1,0,D,2.0,1.0
+516,539,22-23,RUS1,2023-04-15,FC Orenburg,Lokomotiv Moscow,1,4,-3,L,2.0,1.0
+517,540,22-23,RUS1,2023-04-15,FK Rostov,Zenit St Petersburg,0,0,0,D,1.0,2.0
+518,541,22-23,RUS1,2023-04-15,Krylia Sovetov,FK Khimki,0,0,0,D,2.0,1.0
+519,542,22-23,RUS1,2023-04-15,Sochi,FK Krasnodar,0,2,-2,L,2.0,1.0
+520,543,22-23,RUS1,2023-04-15,Torpedo Moscow,Spartak Moscow,1,2,-1,L,1.0,1.0
+521,544,22-23,RUS1,2023-04-15,FK Ural,CSKA Moscow,1,2,-1,L,1.0,2.0
+522,545,22-23,RUS1,2023-04-22,Terek Grozny,Sochi,1,0,1,W,1.0,1.0
+523,546,22-23,RUS1,2023-04-22,Fakel Voronezh,FC Orenburg,1,3,-2,L,2.0,1.0
+524,547,22-23,RUS1,2023-04-22,FK Khimki,Torpedo Moscow,4,2,2,W,1.0,1.0
+525,548,22-23,RUS1,2023-04-22,Nizhny Novgorod,Krylia Sovetov,2,1,1,W,1.0,1.0
+526,549,22-23,RUS1,2023-04-22,Spartak Moscow,FK Krasnodar,4,3,1,W,2.0,1.0
+527,550,22-23,RUS1,2023-04-22,FK Ural,FK Rostov,1,3,-2,L,1.0,1.0
+528,551,22-23,RUS1,2023-04-22,Zenit St Petersburg,Dinamo Moscow,3,1,2,W,3.0,1.0
+529,552,22-23,RUS1,2023-04-22,CSKA Moscow,Lokomotiv Moscow,1,1,0,D,2.0,1.0
+530,553,22-23,RUS2,2023-04-15,Alania Vladikavkaz,FC Volgar Astrakhan,2,2,0,D,1.0,1.0
+531,554,22-23,RUS2,2023-04-15,FC Ufa,Akron,0,0,0,D,1.0,1.0
+532,555,22-23,RUS2,2023-04-15,FK Kamaz,Velves,0,2,-2,L,1.0,1.0
+533,556,22-23,RUS2,2023-04-15,Kuban Krasnodar,SKA-Energia Khabarovsk,2,2,0,D,1.0,1.0
+534,557,22-23,RUS2,2023-04-15,FC Neftekhimik,FK Krasnodar 2,3,0,3,W,2.0,1.0
+535,558,22-23,RUS2,2023-04-15,Rodina Moskva,Anzhi Makhachkala,2,0,2,W,1.0,1.0
+536,559,22-23,RUS2,2023-04-15,Rubin Kazan,Shinnik Yaroslavl,3,0,3,W,2.0,1.0
+537,560,22-23,RUS2,2023-04-15,Volga Ulyanovsk,Arsenal Tula,0,0,0,D,1.0,1.0
+538,561,22-23,RUS2,2023-04-15,Enisey Krasnoyarsk,Baltika Kaliningrad,1,1,0,D,1.0,1.0
+539,562,22-23,RUS2,2023-04-22,Akron,FC Neftekhimik,0,3,-3,L,1.0,1.0
+540,563,22-23,RUS2,2023-04-22,Arsenal Tula,Rubin Kazan,0,1,-1,L,1.0,1.0
+541,564,22-23,RUS2,2023-04-22,Baltika Kaliningrad,FC Ufa,3,2,1,W,1.0,1.0
+542,565,22-23,RUS2,2023-04-22,Anzhi Makhachkala,Enisey Krasnoyarsk,3,0,3,W,2.0,1.0
+543,566,22-23,RUS2,2023-04-22,FK Krasnodar 2,Kuban Krasnodar,1,1,0,D,1.0,1.0
+544,567,22-23,RUS2,2023-04-22,Rodina Moskva,FK Kamaz,2,2,0,D,1.0,1.0
+545,568,22-23,RUS2,2023-04-22,SKA-Energia Khabarovsk,Volga Ulyanovsk,1,1,0,D,2.0,1.0
+546,569,22-23,RUS2,2023-04-22,FC Volgar Astrakhan,Velves,2,1,1,W,1.0,1.0
+547,570,22-23,RUS2,2023-04-22,Shinnik Yaroslavl,Alania Vladikavkaz,0,1,-1,L,1.0,1.0
+548,571,22-23,SCO1,2023-04-14,Ross County,Aberdeen,1,1,0,D,2.0,1.0
+549,572,22-23,SCO1,2023-04-15,Glasgow Rangers,St Mirren,4,0,4,W,3.0,0.0
+550,573,22-23,SCO1,2023-04-15,Hibernian,Hearts,1,1,0,D,2.0,1.0
+551,574,22-23,SCO1,2023-04-15,Livingston,St Johnstone,1,0,1,W,1.0,1.0
+552,575,22-23,SCO1,2023-04-15,Motherwell,Dundee United,0,0,0,D,1.0,1.0
+553,576,22-23,SCO1,2023-04-16,Kilmarnock,Celtic Glasgow,0,5,-5,L,2.0,3.0
+554,577,22-23,SCO1,2023-04-22,Celtic Glasgow,Motherwell,2,1,1,W,3.0,0.0
+555,578,22-23,SCO1,2023-04-22,Dundee United,Livingston,0,1,-1,L,1.0,1.0
+556,579,22-23,SCO1,2023-04-22,Aberdeen,Glasgow Rangers,2,3,-1,L,2.0,3.0
+557,580,22-23,SCO1,2023-04-22,Hearts,Ross County,2,1,1,W,2.0,1.0
+558,581,22-23,SCO1,2023-04-22,St Johnstone,Hibernian,0,1,-1,L,1.0,1.0
+559,582,22-23,SCO1,2023-04-22,St Mirren,Kilmarnock,0,0,0,D,2.0,1.0
+560,583,22-23,SCO2,2023-04-15,Cove Rangers,Inverness CT,0,1,-1,L,1.0,2.0
+561,584,22-23,SCO2,2023-04-15,FC Dundee,Greenock Morton,0,0,0,D,2.0,1.0
+562,585,22-23,SCO2,2023-04-15,Partick Thistle,Ayr United,3,2,1,W,1.0,1.0
+563,586,22-23,SCO2,2023-04-15,Queens Park,Hamilton Academical,4,0,4,W,2.0,1.0
+564,587,22-23,SCO2,2023-04-15,Raith Rovers,Arbroath,1,1,0,D,1.0,1.0
+565,588,22-23,SCO2,2023-04-22,Arbroath,Cove Rangers,1,1,0,D,2.0,2.0
+566,589,22-23,SCO2,2023-04-22,Ayr United,Queens Park,5,0,5,W,1.0,1.0
+567,590,22-23,SCO2,2023-04-22,Hamilton Academical,Partick Thistle,1,2,-1,L,1.0,1.0
+568,591,22-23,SCO2,2023-04-22,Inverness CT,FC Dundee,0,1,-1,L,1.0,1.0
+569,592,22-23,SCO2,2023-04-22,Greenock Morton,Raith Rovers,1,0,1,W,1.0,1.0
+570,593,22-23,SCO3,2023-04-15,Clyde,Edinburgh City,0,2,-2,L,1.0,1.0
+571,594,22-23,SCO3,2023-04-15,Dunfermline Athletic,Queen of the South,1,1,0,D,2.0,1.0
+572,595,22-23,SCO3,2023-04-15,Falkirk,Airdrie United,1,1,0,D,1.0,2.0
+573,596,22-23,SCO3,2023-04-15,Kelty Hearts,Alloa Athletic,1,1,0,D,1.0,1.0
+574,597,22-23,SCO3,2023-04-15,Montrose,Peterhead,3,0,3,W,3.0,1.0
+575,598,22-23,SCO3,2023-04-22,Airdrie United,Dunfermline Athletic,3,4,-1,L,1.0,2.0
+576,599,22-23,SCO3,2023-04-22,Alloa Athletic,Falkirk,1,1,0,D,1.0,1.0
+577,600,22-23,SCO3,2023-04-22,Edinburgh City,Kelty Hearts,2,0,2,W,2.0,1.0
+578,601,22-23,SCO3,2023-04-22,Peterhead,Clyde,1,0,1,W,2.0,2.0
+579,602,22-23,SCO3,2023-04-22,Queen of the South,Montrose,4,0,4,W,1.0,1.0
+580,603,22-23,SCO4,2023-04-15,Annan Athletic,Albion Rovers,5,1,4,W,2.0,1.0
+581,604,22-23,SCO4,2023-04-15,Bonnyrigg Rose,Dumbarton,1,1,0,D,1.0,1.0
+582,605,22-23,SCO4,2023-04-15,East Fife,Stranraer,1,3,-2,L,1.0,1.0
+583,606,22-23,SCO4,2023-04-15,Elgin City,Forfar Athletic,0,1,-1,L,1.0,1.0
+584,607,22-23,SCO4,2023-04-15,Stenhousemuir,Stirling Albion,1,3,-2,L,1.0,2.0
+585,608,22-23,SCO4,2023-04-22,Albion Rovers,Stenhousemuir,2,2,0,D,1.0,1.0
+586,609,22-23,SCO4,2023-04-22,Dumbarton,East Fife,2,0,2,W,2.0,2.0
+587,610,22-23,SCO4,2023-04-22,Forfar Athletic,Bonnyrigg Rose,1,1,0,D,2.0,1.0
+588,611,22-23,SCO4,2023-04-22,Stirling Albion,Annan Athletic,0,2,-2,L,1.0,2.0
+589,612,22-23,SCO4,2023-04-22,Stranraer,Elgin City,2,3,-1,L,1.0,1.0
+590,613,22-23,SPA1,2023-04-14,Vallecano,Osasuna,2,1,1,W,1.0,1.0
+591,614,22-23,SPA1,2023-04-15,Villarreal,Valladolid,1,2,-1,L,2.0,0.0
+592,615,22-23,SPA1,2023-04-15,Athletic Bilbao,Real Sociedad,2,0,2,W,1.0,1.0
+593,616,22-23,SPA1,2023-04-15,Real Betis,Espanyol Barcelona,3,1,2,W,2.0,1.0
+594,617,22-23,SPA1,2023-04-15,Cadiz,Real Madrid,0,2,-2,L,1.0,2.0
+595,618,22-23,SPA1,2023-04-16,Girona,Elche,2,0,2,W,2.0,1.0
+596,619,22-23,SPA1,2023-04-16,Getafe,FC Barcelona,0,0,0,D,1.0,2.0
+597,620,22-23,SPA1,2023-04-16,Athletico Madrid,Almeria,2,1,1,W,2.0,1.0
+598,621,22-23,SPA1,2023-04-16,Valencia,Sevilla FC,0,2,-2,L,1.0,1.0
+599,622,22-23,SPA1,2023-04-17,Celta de Vigo,Mallorca,0,1,-1,L,1.0,1.0
+600,623,22-23,SPA1,2023-04-23,Osasuna,Real Betis,3,2,1,W,1.0,1.0
+601,624,22-23,SPA1,2023-04-23,Espanyol Barcelona,Cadiz,0,0,0,D,1.0,1.0
+602,625,22-23,SPA1,2023-04-23,FC Barcelona,Athletico Madrid,1,0,1,W,2.0,1.0
+603,626,22-23,SPA1,2023-04-23,Elche,Valencia,0,2,-2,L,1.0,1.0
+604,627,22-23,SPA1,2023-04-23,Sevilla FC,Villarreal,2,1,1,W,1.0,1.0
+605,628,22-23,SPA1,2023-04-23,Mallorca,Getafe,3,1,2,W,1.0,1.0
+606,629,22-23,SPA1,2023-04-23,Real Madrid,Celta de Vigo,2,0,2,W,2.0,1.0
+607,630,22-23,SPA1,2023-04-23,Real Sociedad,Vallecano,2,1,1,W,1.0,1.0
+608,631,22-23,SPA1,2023-04-23,Valladolid,Girona,1,0,1,W,1.0,1.0
+609,632,22-23,SPA1,2023-04-23,Almeria,Athletic Bilbao,1,2,-1,L,1.0,1.0
+610,633,22-23,SPA2,2023-04-14,Albacete,Eibar,3,1,2,W,1.0,1.0
+611,634,22-23,SPA2,2023-04-15,Granada,Las Palmas,2,1,1,W,2.0,1.0
+612,635,22-23,SPA2,2023-04-15,Oviedo,Lugo,2,1,1,W,2.0,1.0
+613,636,22-23,SPA2,2023-04-15,Zaragoza,Santander,4,1,3,W,1.0,1.0
+614,637,22-23,SPA2,2023-04-15,Burgos,Ponferradina,2,2,0,D,1.0,1.0
+615,638,22-23,SPA2,2023-04-16,Andorra,Huesca,1,0,1,W,1.0,1.0
+616,639,22-23,SPA2,2023-04-16,Sporting Gijon,Alaves,0,0,0,D,1.0,1.0
+617,640,22-23,SPA2,2023-04-16,Tenerife,Ibiza,4,0,4,W,1.0,1.0
+618,641,22-23,SPA2,2023-04-16,Malaga,Cartagena,1,0,1,W,1.0,1.0
+619,642,22-23,SPA2,2023-04-16,Leganes,Villarreal B,1,0,1,W,1.0,1.0
+620,643,22-23,SPA2,2023-04-17,Levante,Mirandes,1,2,-1,L,2.0,1.0
+621,644,22-23,SPA2,2023-04-23,Lugo,Malaga,0,2,-2,L,2.0,1.0
+622,645,22-23,SPA2,2023-04-23,Mirandes,Burgos,2,1,1,W,1.0,1.0
+623,646,22-23,SPA2,2023-04-23,Alaves,Leganes,2,1,1,W,1.0,1.0
+624,647,22-23,SPA2,2023-04-23,Cartagena,Sporting Gijon,2,1,1,W,1.0,1.0
+625,648,22-23,SPA2,2023-04-23,Villarreal B,Albacete,1,2,-1,L,2.0,1.0
+626,649,22-23,SPA2,2023-04-23,Santander,Granada,1,0,1,W,1.0,1.0
+627,650,22-23,SPA2,2023-04-23,Eibar,Zaragoza,1,1,0,D,2.0,1.0
+628,651,22-23,SPA2,2023-04-23,Huesca,Tenerife,1,1,0,D,1.0,1.0
+629,652,22-23,SPA2,2023-04-23,Ponferradina,Andorra,1,4,-3,L,1.0,1.0
+630,653,22-23,SPA2,2023-04-23,Ibiza,Oviedo,1,2,-1,L,1.0,1.0
+631,654,22-23,SPA2,2023-04-23,Las Palmas,Levante,0,0,0,D,1.0,1.0
+632,655,22-23,TUN1,2023-04-15,Club Africain,US Tataouine,4,1,3,W,1.0,1.0
+633,656,22-23,TUN1,2023-04-15,US Ben Guerdane,Club Sportif Sfaxien,1,2,-1,L,1.0,1.0
+634,657,22-23,TUN1,2023-04-15,Olympique Beja,Esperance Tunis,2,0,2,W,1.0,1.0
+635,658,22-23,TUN1,2023-04-15,ES Sahel,US Monastir,2,1,1,W,1.0,0.0
+636,659,22-23,TUN1,2023-04-22,US Monastir,Club Africain,0,1,-1,L,1.0,0.0
+637,660,22-23,TUN1,2023-04-22,Esperance Tunis,ES Sahel,1,0,1,W,1.0,0.0
+638,661,22-23,TUN1,2023-04-22,US Tataouine,US Ben Guerdane,1,1,0,D,1.0,1.0
+639,662,22-23,TUN1,2023-04-22,Club Sportif Sfaxien,Olympique Beja,0,0,0,D,1.0,0.0
+640,663,22-23,TUN1,2023-04-26,CA Bizertin,ES Hammam Sousse,2,2,0,D,1.0,1.0
+641,664,22-23,TUN1,2023-04-26,EO Sidi Bouzid,Soliman,1,1,0,D,1.0,1.0
+642,665,22-23,TUN1,2023-04-26,Stade Tunisien,ES Metlaoui,1,1,0,D,1.0,1.0
+643,666,23-24,USA1,2023-04-16,Charlotte FC,Colorado Rapids,2,2,0,D,2.0,1.0
+644,667,23-24,USA1,2023-04-16,Columbus Crew,New England Revolution,1,1,0,D,1.0,1.0
+645,668,23-24,USA1,2023-04-16,CF Montreal,D.C. United,0,1,-1,L,2.0,1.0
+646,669,23-24,USA1,2023-04-16,New York Red Bulls,Houston Dynamo,1,1,0,D,2.0,1.0
+647,670,23-24,USA1,2023-04-16,New York City FC,Nashville SC,2,1,1,W,2.0,1.0
+648,671,23-24,USA1,2023-04-16,Toronto FC,Atlanta United FC,2,2,0,D,2.0,1.0
+649,672,23-24,USA1,2023-04-16,Austin FC,Vancouver Whitecaps,0,0,0,D,2.0,1.0
+650,673,23-24,USA1,2023-04-16,Chicago Fire,Philadelphia Union,2,2,0,D,1.0,2.0
+651,674,23-24,USA1,2023-04-16,FC Dallas,Real Salt Lake,2,1,1,W,2.0,1.0
+652,675,23-24,USA1,2023-04-16,Minnesota,Orlando City,1,2,-1,L,1.0,1.0
+653,676,23-24,USA1,2023-04-16,St Louis City,FC Cincinnati,5,1,4,W,2.0,1.0
+654,677,23-24,USA1,2023-04-16,Portland Timbers,Seattle Sounders,4,1,3,W,1.0,1.0
+655,678,23-24,USA1,2023-04-16,San Jose Earthquakes,Sporting Kansas City,3,0,3,W,2.0,1.0
+656,679,23-24,USA1,2023-04-16,Los Angeles Galaxy,Los Angeles FC,2,3,-1,L,1.0,1.0
+657,680,23-24,USA1,2023-04-23,Charlotte FC,Columbus Crew,1,0,1,W,2.0,1.0
+658,681,23-24,USA1,2023-04-23,FC Cincinnati,Portland Timbers,2,1,1,W,2.0,1.0
+659,682,23-24,USA1,2023-04-23,CF Montreal,New York Red Bulls,2,0,2,W,1.0,1.0
+660,683,23-24,USA1,2023-04-23,New England Revolution,Sporting Kansas City,2,1,1,W,2.0,1.0
+661,684,23-24,USA1,2023-04-23,New York City FC,FC Dallas,3,1,2,W,2.0,1.0
+662,685,23-24,USA1,2023-04-23,Orlando City,D.C. United,1,3,-2,L,2.0,1.0
+663,686,23-24,USA1,2023-04-23,Philadelphia Union,Toronto FC,4,2,2,W,2.0,1.0
+664,687,23-24,USA1,2023-04-23,Nashville SC,Los Angeles FC,1,1,0,D,2.0,1.0
+665,688,23-24,USA1,2023-04-23,Colorado Rapids,St Louis City,1,1,0,D,1.0,2.0
+666,689,23-24,USA1,2023-04-23,Real Salt Lake,San Jose Earthquakes,3,1,2,W,2.0,1.0
+667,690,23-24,USA1,2023-04-23,Los Angeles Galaxy,Austin FC,2,0,2,W,2.0,1.0
+668,691,23-24,USA1,2023-04-23,Seattle Sounders,Minnesota,1,0,1,W,2.0,1.0
+669,692,23-24,USA1,2023-04-23,Atlanta United FC,Chicago Fire,2,1,1,W,2.0,1.0
+670,693,23-24,USA2,2023-04-15,FC Tulsa,Charleston Battery,1,2,-1,L,2.0,1.0
+671,694,23-24,USA2,2023-04-15,Loudoun United,Birmingham Legion,3,0,3,W,1.0,2.0
+672,695,23-24,USA2,2023-04-15,Louisville City FC,San Antonio Scorpions,1,0,1,W,1.0,1.0
+673,696,23-24,USA2,2023-04-15,Memphis 901,Las Vegas Lights FC,2,2,0,D,2.0,1.0
+674,697,23-24,USA2,2023-04-15,Miami FC,Detroit City FC,0,0,0,D,1.0,1.0
+675,698,23-24,USA2,2023-04-15,New Mexico United,San Diego Loyal,1,1,0,D,2.0,1.0
+676,699,23-24,USA2,2023-04-15,Oakland Roots,Hartford Athletic,1,2,-1,L,2.0,1.0
+677,700,23-24,USA2,2023-04-15,Orange County SC,Indy Eleven,1,0,1,W,2.0,1.0
+678,701,23-24,USA2,2023-04-15,Phoenix Rising,Monterey Bay FC,1,1,0,D,2.0,1.0
+679,702,23-24,USA2,2023-04-15,Pittsburgh Riverhounds,Rio Grande Valley FC,2,0,2,W,1.0,1.0
+680,703,23-24,USA2,2023-04-15,Sacramento Republic,Colorado Springs Switchbacks,4,0,4,W,2.0,1.0
+681,704,23-24,USA2,2023-04-22,Charleston Battery,Louisville City FC,0,0,0,D,1.0,2.0
+682,705,23-24,USA2,2023-04-22,Colorado Springs Switchbacks,New Mexico United,2,1,1,W,2.0,1.0
+683,706,23-24,USA2,2023-04-22,El Paso Locomotive,Pittsburgh Riverhounds,2,0,2,W,1.0,1.0
+684,707,23-24,USA2,2023-04-22,Indy Eleven,Monterey Bay FC,2,3,-1,L,2.0,1.0
+685,708,23-24,USA2,2023-04-22,Orange County SC,Birmingham Legion,1,2,-1,L,1.0,1.0
+686,709,23-24,USA2,2023-04-22,Rio Grande Valley FC,Memphis 901,0,3,-3,L,1.0,1.0
+687,710,23-24,USA2,2023-04-22,Sacramento Republic,Detroit City FC,1,0,1,W,2.0,1.0
+688,711,23-24,USA2,2023-04-22,San Antonio Scorpions,Phoenix Rising,1,1,0,D,2.0,1.0
+689,712,23-24,USA2,2023-04-23,Loudoun United,Oakland Roots,2,0,2,W,1.0,2.0
+690,713,23-24,USA2,2023-04-23,Miami FC,Las Vegas Lights FC,4,1,3,W,2.0,1.0
+691,714,23-24,USA2,2023-04-23,San Diego Loyal,Tampa Bay Rowdies,1,0,1,W,1.0,1.0
+692,715,23-24,VEN1,2023-04-15,Carabobo FC,Deportivo Rayo Zuliano,0,0,0,D,2.0,1.0
+693,716,23-24,VEN1,2023-04-15,Caracas FC,Mineros de Guayana,1,1,0,D,2.0,1.0
+694,717,23-24,VEN1,2023-04-15,Estudiantes de Merida,Metropolitanos FC,0,2,-2,L,1.0,1.0
+695,718,23-24,VEN1,2023-04-15,Deportivo La Guaira,Angostura,1,0,1,W,1.0,1.0
+696,719,23-24,VEN1,2023-04-15,Portuguesa FC,Universidad Central FC,2,0,2,W,1.0,1.0
+697,720,23-24,VEN1,2023-04-15,Cabello,CD Hermanos Colmenarez,1,0,1,W,1.0,1.0
+698,721,23-24,VEN1,2023-04-15,Zamora FC,Monagas,1,1,0,D,1.0,1.0
+699,722,23-24,VEN1,2023-04-22,Angostura,Metropolitanos FC,3,2,1,W,1.0,1.0
+700,723,23-24,VEN1,2023-04-22,Deportivo Tachira,Caracas FC,1,1,0,D,1.0,1.0
+701,724,23-24,VEN1,2023-04-22,CD Hermanos Colmenarez,Portuguesa FC,0,2,-2,L,1.0,1.0
+702,725,23-24,VEN1,2023-04-22,Mineros de Guayana,Carabobo FC,0,1,-1,L,1.0,1.0
+703,726,23-24,VEN1,2023-04-22,Monagas,Cabello,3,2,1,W,1.0,1.0
+704,727,23-24,VEN1,2023-04-22,Deportivo Rayo Zuliano,Zamora FC,1,1,0,D,1.0,2.0
+705,728,23-24,VEN1,2023-04-22,Universidad Central FC,Estudiantes de Merida,3,2,1,W,1.0,1.0
+706,729,22-23,ZAF1,2023-04-21,Maritzburg United,Richards Bay FC,1,1,0,D,1.0,1.0
+707,730,22-23,ZAF1,2023-04-22,Golden Arrows,Mamelodi Sundowns,1,1,0,D,1.0,2.0
+708,731,22-23,ZAF1,2023-04-22,Orlando Pirates,Cape Town City FC,2,1,1,W,2.0,1.0
+709,732,22-23,ZAF1,2023-04-22,Stellenbosch,Moroka Swallows,3,0,3,W,1.0,1.0
+710,733,22-23,ZAF1,2023-04-23,Marumo Gallants,Chippa United,3,1,2,W,1.0,1.0
+711,734,22-23,ZAF1,2023-04-23,Tim Sukazi Galaxy,Bloemfontein Celtic,1,1,0,D,1.0,1.0
+712,735,22-23,ZAF1,2023-04-23,Sekhukhune United,Kaizer Chiefs,1,0,1,W,1.0,1.0
+713,736,22-23,ZAF1,2023-04-23,SuperSport United,AmaZulu,2,1,1,W,1.0,1.0
